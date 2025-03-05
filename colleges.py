@@ -110,3 +110,5 @@ for i in fusion.index:
     ).add_to(m)
 
 m.save("colleges_morbihan.html")
+
+#fin
