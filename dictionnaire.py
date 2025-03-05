@@ -58,3 +58,5 @@ def trier(donnees, criteres):
     return sorted(donnees, key=les_criteres)
 
 print(trier(etablissements, ['STATUT', 'NOM_ET']))
+
+#fin
