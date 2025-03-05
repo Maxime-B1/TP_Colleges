@@ -109,6 +109,6 @@ for i in fusion.index:
         icon=folium.Icon(color="green"),
     ).add_to(m)
 
-m.save("colleges_morbihan.html")
+m.save("Bureau/NSI/TP_Colleges/colleges_morbihan.html")
 
 #fin
